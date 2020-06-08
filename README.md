@@ -6,12 +6,19 @@ A SFW (Save For Work) command line chat room
 
 ![demo](./demo.png)
 
+### Release Note
+- v0.2.0
+    - [新增] 建立/加入私人聊天室
+    - [新增] 聊天室線上使用者人數，使用者名單
+    - [新增] 聊天室指令 /roomID, /users
+    - [完整更新內容](./release.md)
+
 ### Downloads
-- OSX: [sfw-chat-macos-v0.0.1](https://firebasestorage.googleapis.com/v0/b/sfw-chat.appspot.com/o/release%2Fv0_0_1%2Fsfw-chat-macos-v0.0.1.zip?alt=media&token=93118694-6a76-49dd-9511-6318c9814891)
+- OSX: [sfw-chat-macos-v0.2.0](https://firebasestorage.googleapis.com/v0/b/sfw-chat.appspot.com/o/release%2Fv0_2_0%2Fsfw-chat-macos-v0.2.0.zip?alt=media&token=94c2618b-e97b-41f9-93b5-0c724746c215)
 
-- Windows: [sfw-chat-win-v0.0.1](https://firebasestorage.googleapis.com/v0/b/sfw-chat.appspot.com/o/release%2Fv0_0_1%2Fsfw-chat-win-v0.0.1.exe.zip?alt=media&token=55e6d420-0565-4e30-82c1-f56e69502433)
+- Windows: [sfw-chat-win-v0.2.0](https://firebasestorage.googleapis.com/v0/b/sfw-chat.appspot.com/o/release%2Fv0_2_0%2Fsfw-chat-win-v0.2.0.exe.zip?alt=media&token=5a46d9b8-b839-483b-a1dc-00d2606c30e7)
 
-- Linux: [sfw-chat-linux-v0.0.1](https://firebasestorage.googleapis.com/v0/b/sfw-chat.appspot.com/o/release%2Fv0_0_1%2Fsfw-chat-linux-v0.0.1.zip?alt=media&token=92fa97bb-6f65-4818-8584-78a85d06ef68)
+- Linux: [sfw-chat-linux-v0.2.0](https://firebasestorage.googleapis.com/v0/b/sfw-chat.appspot.com/o/release%2Fv0_2_0%2Fsfw-chat-linux-v0.2.0.zip?alt=media&token=7914df12-9044-44b4-8b0d-dae4afa351f9)
 
 
 ### Troubleshooting
